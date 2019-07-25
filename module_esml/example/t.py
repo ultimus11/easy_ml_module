@@ -1,7 +1,7 @@
 #coded by Sahil Panindre
 
-import easymlmodule
-easymlmodule.esml('face_detection_with_builtin_webcam')
+import easymlmodule_v1
+easymlmodule_v1.esml('face_detection_with_builtin_webcam')
 
 #press q to exit
 
